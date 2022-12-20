@@ -1,0 +1,4 @@
+(executable
+ (public_name swplayer)
+ (name swplayer)
+ (libraries base core core_unix stdio cmdliner directories fpath))
